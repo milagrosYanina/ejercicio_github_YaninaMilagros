@@ -1,4 +1,5 @@
 Hola pequeño 
 por la especial oferta de 3 monedas. 
 ¿Quieres caramelos?
-["dialogoNPC-SI"]
+["dialogoNPC-SI","dialogoNPC-NO"] 
+
